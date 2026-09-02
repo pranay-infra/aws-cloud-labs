@@ -17,6 +17,9 @@ Route 53 – DNS
 AWS CLI
 Terraform – Infrastructure as Code
 Amplify - 
+ECS - 
+EKS - 
+
 
 
 My goal is to build strong practical knowledge of AWS Cloud and develop the skills required to design, deploy, monitor, secure, and troubleshoot cloud infrastructure.
