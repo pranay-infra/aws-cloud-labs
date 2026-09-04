@@ -8,9 +8,6 @@ AWS Services I am learning.
 Overview of Topics – Introduction to the major AWS topics.<br>
 Example: EC2, S3, RDS, Lambda, VPC, and other AWS services.
 
-Virtualization – Creates virtual versions of physical resources.<br>
-Example: Run multiple virtual servers on one physical machine.
-
 Cloud Computing – Provides computing resources over the internet.<br>
 Example: Run an application on AWS without owning physical servers.
 
